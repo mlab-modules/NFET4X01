@@ -12,13 +12,15 @@ NFET4X01 MLAB module incorporates a quad set of power MOSFET transistors, offeri
 
 The module is designed to allow multiple different transistors in a D-pak package to be used, so the parameters can vary. The switched current is limited to approximately 10A (limited by connectors and the PCB), and the voltage is uasually up to 20V. The module is equipped with a protection diode at the transistor's collector and an optional capacitor or diode for selecting the AC coupling at the module's input.
 
-## Features
+## Features## Features
 
 - Compatibility with multiple transistors in a D-pak package
 - Switched current up to 10A
-- Voltage up to 20V
+- Voltage up to 30V
 - Protection diode at the transistor's collector
 - Optional capacitor or diode for selecting AC coupling at the module's input
+- Capable of handling loads with inductive characteristics
+- Transistors are ground switched
 
 ## Installation
 
@@ -39,4 +41,4 @@ When using this module, it is crucial to adhere to the current and voltage speci
 
 ## Support
 
-For further information or technical support, please visit our [website](http://www.mlab.cz).
+For further information or technical support, please visit our [website](http://www.mlab.cz). A detailed description of the module is provided in Czech in a [PDF document](/doc/NFET4X01A.cs.pdf).

@@ -1,6 +1,6 @@
 # MLAB MOSFET Module NFET4X01
 
-NFET4X01 MLAB module incorporates a quad set of power MOSFET transistors, offering flexibility in design and robust performance. It's been engineered with the ability to assemble multiple transistor types in a D-pak package, allowing for tailored parameters based on specific project needs. Operational parameters can handle a switched current of up to 10A (limited by connectors and the PCB) and voltages reaching 20V (sometime more). For an added layer of protection and optimization, the module features a protection diode at the transistor's collector and an optional capacitor or diode for selecting the AC coupling at the module's input.
+NFET4X01 MLAB module incorporates a quad set of power MOSFET transistors, offering flexibility in design and robust performance. It's been engineered with the ability to assemble multiple transistor types in a D-pak package, allowing for tailored parameters based on specific project needs. Operational parameters can handle a switched current of up to 10A (limited by connectors and the PCB) and voltages reaching 20V (sometime more). For an added layer of protection and optimization, the module features a protection diode at the transistor's collector and an optional capacitor or diode for selecting the AC coupling at the module's input
 
 <p float="left">
 <img src="/doc/img/NFET4X01A_top_small.jpg" width="49%">

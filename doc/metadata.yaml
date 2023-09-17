@@ -1,0 +1,43 @@
+description: MLAB module witth a quad set of power MOSFET transistors. It's been engineered
+  with the ability to carry multiple transistor types in a D-pak package, allowing
+  for tailored parameters based on specific project needs.
+github_branch: NFET4X01A
+github_description: MLAB module witth a quad set of power MOSFET transistors. It's
+  been engineered with the ability to carry multiple transistor types in a D-pak package,
+  allowing for tailored parameters based on specific project needs.
+github_repo: NFET4X01
+github_url: https://github.com/mlab-modules/NFET4X01
+homepage: false
+images:
+- doc/img/NFET4X01A_Bot_Icon.jpg
+- doc/img/NFET4X01A_top.jpg
+- doc/img/NFET4X01A_Bot_small.jpg
+- doc/img/NFET4X01A_Bot.jpg
+- doc/img/NFET4X01A_top_Icon.jpg
+- doc/img/NFET4X01A_top_small.jpg
+- doc/html/NFET4X01A_Files/image002.jpg
+- doc/html/NFET4X01A_Files/image001.jpg
+- doc/img/NFET4X01A_QRcode.png
+- doc/html/NFET4X01A_Files/image005.png
+- doc/html/NFET4X01A_Files/image008.png
+- doc/html/NFET4X01A_Files/image007.png
+- doc/html/NFET4X01A_Files/image006.png
+- doc/html/NFET4X01A_Files/image004.png
+- doc/html/NFET4X01A_Files/image003.png
+mark: 50
+status: 0
+tags:
+- fet
+- load-switch
+- mlab
+- mlab-module
+- mosfet
+- power-switch
+- switching
+- transistor
+- transistors
+- mlab-powersw
+- n-fet
+- nfet
+title: NFET4X01
+updated: '2023-09-17T11:30:02.154669+00:00'

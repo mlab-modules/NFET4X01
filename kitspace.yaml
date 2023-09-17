@@ -1,0 +1,10 @@
+bom: hw/sch_pcb/NFET4X01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/NFET4X01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/NFET4X01
+summary: MLAB module witth a quad set of power MOSFET transistors. It's been engineered
+  with the ability to carry multiple transistor types in a D-pak package, allowing
+  for tailored parameters based on specific project needs.
